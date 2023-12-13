@@ -5,19 +5,19 @@ La digitalisation des procédures administratives vise à résoudre la difficult
 ## Aperçu du Projet
 
 ### Outils Utilisés
-![Outils Utilisés](assets/tools.PNG)
+![Outils Utilisés](Assets/tools.PNG)
 
 ### Architecture de l'Application
-![Architecture de l'Application](assets/achitecture.PNG)
+![Architecture de l'Application](Assets/achitecture.PNG)
 
 ### Interface de l'Utilisateur
-![Interface de l'Utilisateur](assets/Interfac.PNG)
+![Interface de l'Utilisateur](Assets/Interfac.PNG)
 
 ### Test dans le Contexte
-![Test dans le Contexte](assets/Test1.PNG)
+![Test dans le Contexte](Assets/Test1.PNG)
 
 ### Test Hors Contexte
-![Test Hors Contexte](assets/Test2.PNG)
+![Test Hors Contexte](Assets/Test2.PNG)
 
 ## Description des Images
 
