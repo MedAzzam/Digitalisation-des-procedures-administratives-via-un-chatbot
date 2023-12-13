@@ -11,13 +11,13 @@ La digitalisation des procédures administratives vise à résoudre la difficult
 ![Architecture de l'Application](Assets/achritecture.PNG)
 
 ### Interface de l'Utilisateur
-![Interface de l'Utilisateur](Assets/Interfac.PNG)
+![Interface de l'Utilisateur](Assets/interface.PNG)
 
 ### Test dans le Contexte
-![Test dans le Contexte](Assets/Test1.PNG)
+![Test dans le Contexte](Assets/test1.PNG)
 
 ### Test Hors Contexte
-![Test Hors Contexte](Assets/Test2.PNG)
+![Test Hors Contexte](Assets/test2.PNG)
 
 ## Description des Images
 
