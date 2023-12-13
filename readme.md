@@ -8,7 +8,7 @@ La digitalisation des procédures administratives vise à résoudre la difficult
 ![Outils Utilisés](Assets/tools.PNG)
 
 ### Architecture de l'Application
-![Architecture de l'Application](Assets/achitecture.PNG)
+![Architecture de l'Application](Assets/achritecture.PNG)
 
 ### Interface de l'Utilisateur
 ![Interface de l'Utilisateur](Assets/Interfac.PNG)
