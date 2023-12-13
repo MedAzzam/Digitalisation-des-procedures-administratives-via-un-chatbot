@@ -53,7 +53,7 @@ def main():
       chunks = text_splitter.split_text(text)
       
       # Creation des embeddings
-      embeddings = OpenAIEmbeddings(openai_api_key = "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")
+      embeddings = OpenAIEmbeddings(openai_api_key = "Your Openai Key")
       knowledge_base = FAISS.from_texts(chunks, embeddings)
       
       # Affichage de la requete du user
